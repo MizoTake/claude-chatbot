@@ -18,7 +18,8 @@
       "Bash(true)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(npm audit fix:*)"
     ],
     "deny": []
   }
