@@ -19,7 +19,15 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(grep:*)",
-      "Bash(npm audit fix:*)"
+      "Bash(npm audit fix:*)",
+      "Bash(cat:*)",
+      "Bash(./scripts/setup-claude-for-nobody.sh:*)",
+      "Bash(sudo:*)",
+      "Bash(./scripts/setup-claude-user.sh:*)",
+      "Bash(git restore:*)",
+      "Bash(./scripts/share-claude-auth.sh:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git grep:*)"
     ],
     "deny": []
   }
